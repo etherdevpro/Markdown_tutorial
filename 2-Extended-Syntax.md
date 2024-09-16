@@ -178,3 +178,14 @@ Markdown
 Result
 
 I need to highlight these ==very important words==.
+
+## Subscript
+This isn’t common, but some Markdown processors allow you to use subscript to position one or more characters slightly below the normal line of type. To create a subscript, use one tilde symbol (~) before and after the characters.
+
+Markdown
+
+    H~2~O
+
+Result
+
+H~2~O
