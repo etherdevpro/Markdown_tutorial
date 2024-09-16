@@ -214,3 +214,12 @@ Markdown
 Result
 
 At the command prompt, type `nano`
+
+## 9. [Blockquotes](#id_blockquotes)
+To create a blockquote, add a > in front of a paragraph.
+
+Markdown
+
+    > This is Blockquotes 
+Result
+> This is Blockquotes
