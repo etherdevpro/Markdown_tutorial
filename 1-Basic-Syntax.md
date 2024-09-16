@@ -204,3 +204,13 @@ Markdown
 Result
 
     This is code block
+
+## 8. [Code](#id_code)
+To denote a word or phrase as code, enclose it in tick marks (`).
+
+Markdown
+
+    At the command prompt, type `nano`
+Result
+
+At the command prompt, type `nano`
