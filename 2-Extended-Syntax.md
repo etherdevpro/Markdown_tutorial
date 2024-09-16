@@ -167,3 +167,14 @@ There are two ways to add emoji to Markdown files: copy and paste the emoji into
     Gone camping! :tent: Be back soon.
 
     That is so funny! :joy:
+
+## Highlight
+This isn’t common, but some Markdown processors allow you to highlight text. The result looks like this. To highlight words, use two equal signs (==) before and after the words.
+
+Markdown
+
+    I need to highlight these ==very important words==.
+
+Result
+
+I need to highlight these ==very important words==.
