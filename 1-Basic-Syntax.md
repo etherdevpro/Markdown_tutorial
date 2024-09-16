@@ -223,3 +223,28 @@ Markdown
     > This is Blockquotes 
 Result
 > This is Blockquotes
+### 9.1. Blockquotes with Multiple Paragraphs
+Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paragraphs.
+
+Markdown
+
+    > This is first line.
+    >
+    > This is second line.
+
+Result
+> This is first line.
+>
+> This is second line.
+### 9.2. Nested Blockquotes
+Blockquotes can be nested. Add a >> in front of the paragraph you want to nest.
+
+Markdown
+
+    > This is first paragraph.
+    >
+    >> This is the nested paragraph.
+Result
+> This is first paragraph.
+>
+>> This is the nested paragraph.
