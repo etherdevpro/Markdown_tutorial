@@ -173,3 +173,24 @@ Result
 
 Use [Duck Duck Go](https://duckduckgo.com)
 Use [Duck Duck Go](https://duckduckgo.com "My search engine!").
+
+## 5. [URLs and Email Addresses](id_urls)
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
+
+Markdown
+
+    <https://www.google.com>
+    <info@example.com>
+Result
+
+<https://www.google.com>
+<info@example.com>
+
+## 6. [Images](#id_images)
+Markdown
+
+    "![Alt Text](imageUrl)"  
+
+Result
+
+![Alt Text](imageUrl)
