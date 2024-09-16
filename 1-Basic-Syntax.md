@@ -15,3 +15,44 @@ Result
 ### Heading3
 #### Heading4
 ##### Heading5
+
+## 2. [Emphasis](#id_emphasis)
+### 2.1. Bold
+To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+
+Markdown
+
+    This is **Bold** Text.
+    This is __Bold__ Text.
+Result
+
+This is **Bold** Text.
+This is __Bold__ Text.
+
+### 2.2. Italic
+To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+
+Markdown
+
+    This is *Italic* text.
+    This is _Italic_ text.
+Result
+
+This is *Italic* text.
+This is _Italic_ text.
+
+### 2.3. Bold and Italic
+To emphasize text with bold and italics at the same time, add three asterisks or underscores before and after a word or phrase.
+
+Markdown
+
+    ***Bold and Italic*** Text
+    ___Bold and Italic___ Text
+    __*Bold and Italic*__ Text
+    **_Bold and Italic_** Text
+Result
+
+***Bold and Italic*** Text
+___Bold and Italic___ Text
+__*Bold and Italic*__ Text
+**_Bold and Italic_** Text
