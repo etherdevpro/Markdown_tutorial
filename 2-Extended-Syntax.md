@@ -200,3 +200,14 @@ Markdown
 Result
 
 X^2^
+
+## Automatic URL Linking
+Many Markdown processors automatically turn URLs into links. That means if you type http://www.example.com, your Markdown processor will automatically turn it into a link even though you haven’t used brackets.
+
+Markdown
+
+    http://www.example.com
+
+Result
+
+http://www.example.com
