@@ -248,3 +248,18 @@ Result
 > This is first paragraph.
 >
 >> This is the nested paragraph.
+
+## 10. [Horizontal Rules](#horizontal-rules)
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+
+Markdown
+
+    ***
+    ---
+    ___
+
+Result
+
+***
+---
+___
