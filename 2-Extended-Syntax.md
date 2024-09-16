@@ -211,3 +211,14 @@ Markdown
 Result
 
 http://www.example.com
+
+## Disabling Automatic URL Linking
+If you don’t want a URL to be automatically linked, you can remove the link by denoting the URL as code with backticks.
+
+Markdown
+
+    `http://www.example.com`
+
+Result
+
+`http://www.example.com`
