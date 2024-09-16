@@ -88,3 +88,15 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
+
+
+## Heading IDs
+You can link to headings with custom IDs in the file by creating a standard link with a number sign (#) followed by the custom heading ID. These are commonly referred to as anchor links.
+
+Markdown
+
+    [Heading IDs](#heading-ids)
+
+Result
+
+[Heading IDs](#heading-ids)
