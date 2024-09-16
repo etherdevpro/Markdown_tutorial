@@ -147,3 +147,23 @@ Result
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+## Emoji
+There are two ways to add emoji to Markdown files: copy and paste the emoji into your Markdown-formatted text, or type emoji shortcodes.
+
+- Copy and Paste
+  In most cases, you can simply copy an emoji from a source like [Emojipedia](https://emojipedia.org/) and paste it into your document. Many Markdown applications will automatically display the emoji in the Markdown-formatted text. The HTML and PDF files you export from your Markdown application should display the emoji.
+
+- Type emoji shortcodes
+  
+    Markdown
+
+        Gone camping! :tent: Be back soon.
+
+        That is so funny! :joy:
+
+  Result
+
+    Gone camping! :tent: Be back soon.
+
+    That is so funny! :joy:
