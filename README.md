@@ -1,6 +1,6 @@
 ### Welcome to my Markdown tutorial
 
-It consist of 3 tutorials.
+It consist of 2 tutorials.
 
 1. [Basic Syntax](https://github.com/etherdevpro/Markdown_tutorial/blob/master/1-Basic-Syntax.md)
    
